@@ -78,11 +78,13 @@
                           </Group>
                       </Group>
                       <EmptySpace type="separate" max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                          <Component id="txNamaBarang" max="32767" attributes="0"/>
-                          <Component id="txIdPegawai" max="32767" attributes="0"/>
-                          <Component id="txHargaJual" alignment="0" max="32767" attributes="0"/>
-                          <Component id="txJumlahBarang" min="-2" pref="158" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="txNamaBarang" max="32767" attributes="0"/>
+                              <Component id="txHargaJual" alignment="0" max="32767" attributes="0"/>
+                              <Component id="txJumlahBarang" min="-2" pref="158" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="txIdPegawai" alignment="0" min="-2" pref="158" max="-2" attributes="0"/>
                       </Group>
                   </Group>
               </Group>
